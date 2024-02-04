@@ -1,0 +1,17 @@
+.btnrad{
+    border-radius: 50px !important;
+    font-weight: bold !important;
+    
+}
+
+.words{
+    font-size: 18px !important;
+    line-height: 26px !important;
+    width: 180%;
+    font-style: italic;
+    font-family:serif;
+}
+.server{
+    width: 100% !important;
+  
+}
